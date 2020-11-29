@@ -1,6 +1,6 @@
 ### Hi there 👋
-⚡ I’m currently writing a server for the Soul Worker in #C
-🌱 I’m currently learning C# language.
+⚡ I’m currently writing a server for the Soul Worker in #C<br>
+🌱 I’m currently learning C# language.<br>
 📫 How to reach me? Telegram: @RutsuKun
 <!--
 **RutsuKun/RutsuKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
