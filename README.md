@@ -33,7 +33,7 @@ Projects that will be public soon:
 **Twitter:** *`RutsuKun`*
 
 **Instagram:** *`rutsudev`*
-
+![github stats](https://github-readme-stats.vercel.app/api?username=RutsuKun&theme=radical&show_icons=true&hide_border=true)
 
 
 
