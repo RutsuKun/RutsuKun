@@ -18,7 +18,7 @@ Console.WriteLine('JavaScript, TypeScript, PHP and C# Developer');
 
 Projects that will be public soon:
 
-- <a href="https://github.com/RutsuKun/AuthFrontend">Henicz Blog</a>
+- <a href="https://github.com/RutsuKun/AuthFrontend">Auth Frontend</a>
 
 - <a href="https://github.com/RutsuKun/AuthServer">Auth Server</a>
 
