@@ -8,6 +8,8 @@ Console.WriteLine('JavaScript, TypeScript, PHP and C# Developer');
 
 ```
 
+[![wakatime](https://wakatime.com/badge/user/d88864fd-a74b-4ba4-bf04-174004b510bf.svg)](https://wakatime.com/@d88864fd-a74b-4ba4-bf04-174004b510bf)
+
 ## My projects:
 
 - <a href="https://github.com/RutsuKun/henicz.eu">Personal website</a>
