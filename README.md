@@ -1,10 +1,10 @@
 ```cs
 
-Console.WriteLine('Hello World!');
+Console.WriteLine("Hello World!");
 
-Console.ForegroundColor = Console.Color.Blue;
+Console.ForegroundColor = ConsoleColor.Blue;
 
-Console.WriteLine('JavaScript, TypeScript, PHP and C# Developer');
+Console.WriteLine("JavaScript, TypeScript, PHP and C# Developer");
 
 ```
 
