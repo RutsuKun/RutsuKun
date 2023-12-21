@@ -8,7 +8,9 @@ Console.WriteLine("JavaScript, TypeScript, PHP and C# Developer");
 
 ```
 
-[![wakatime](https://wakatime.com/badge/user/d88864fd-a74b-4ba4-bf04-174004b510bf.svg)](https://wakatime.com/@d88864fd-a74b-4ba4-bf04-174004b510bf)
+[![wakatime](https://wakatime.com/badge/user/d88864fd-a74b-4ba4-bf04-174004b510bf.svg?style=for-the-badge)](https://wakatime.com/@d88864fd-a74b-4ba4-bf04-174004b510bf)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/259060705775452170?animated=true&showDisplayName=true)](https://discord.com/users/259060705775452170)
 
 [![RutsuKun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RutsuKun&count_private=true&show_icons=true&theme=radical&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
